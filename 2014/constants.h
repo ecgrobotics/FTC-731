@@ -1,0 +1,11 @@
+#pragma systemFile
+#define PRIMARY_ROUTE 1
+#define SECONDARY_ROUTE 2
+#define PRIMARY_POSITION 1
+#define SECONDARY_POSITION 2
+#define ERROR 2
+#define NXTWARNING 8500
+#define NXTLOW 7500
+#define TETRIXWARNING 1100
+#define TETRIXLOW 9000
+#define COLOR_THRESHOLD=55;
